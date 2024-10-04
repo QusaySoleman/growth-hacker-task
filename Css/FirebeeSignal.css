@@ -1,0 +1,18 @@
+.firebeesignals{
+    background-color: #fff;
+    padding: 50px ;
+    text-align: center;
+}
+.firebeesignals .box{
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px;
+    min-height: 300px;
+}
+.firebeesignals .box img{
+    margin: 5px 10px ;
+}

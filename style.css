@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    line-height: 2;
+    overflow-x:hidden
+}
+
+:root {
+    --main-font-color: #27292D;
+    --green-color: #07C961;
+    --blue-color: #4B93D0;
+
+
+}

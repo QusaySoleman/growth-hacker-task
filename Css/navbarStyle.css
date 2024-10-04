@@ -1,0 +1,41 @@
+/* Navbar Component */
+.nav-content {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: var(--main-font-color);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+button:hover {
+    color: var(--blue-color);
+    transition: 0.5s ease all;
+}
+
+button {
+    color: #fff;
+    background-color: var(--green-color);
+    border: none;
+    padding: 15px;
+    margin: 0 25px 0 0;
+    border-radius: 25px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.Vector {
+    background-color: var(--blue-color);
+    padding: 15px;
+    border-radius: 25px;
+}
+
+/* Navbar Component */

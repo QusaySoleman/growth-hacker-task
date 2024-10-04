@@ -1,0 +1,35 @@
+.girl {
+    padding: 25px 10px 0 10px ;
+    text-align: start;
+    font-size: 18px;
+    background-color: #eee;
+}
+
+.girl .content {
+    width: 100%;
+    
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.girl .content img {
+    margin-right: 10px;
+}
+
+.girl .deep-sleep,
+.girl .alert,
+.girl .happy {
+    color: var(--blue-color);
+    font-weight: bold;
+
+}
+
+.girl .alert {
+    color: #FF225E;
+}
+
+.girl .happy {
+    color: #9D2AC6;
+}

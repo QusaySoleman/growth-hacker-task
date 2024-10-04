@@ -1,0 +1,14 @@
+.money-back{
+    padding: 25px 50px;
+   
+}
+.money-back .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.money-back .box-1 img{
+    max-width: 250px;
+    max-height: 250px;
+}
